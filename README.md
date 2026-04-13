@@ -55,7 +55,8 @@ The project uses both override and overload.
   Override
   
 In the base class Charachter, the method Attack() is abstract:
-public abstract void Attack(Charachter toHit);
+
+    public abstract void Attack(Charachter toHit);
 
 It is overridden in:
 
